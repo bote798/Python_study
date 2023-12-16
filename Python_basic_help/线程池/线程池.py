@@ -1,7 +1,7 @@
 # -*- coding :UTF-8 -*-
 # @Project :   Projects
 # @File    :   线程池.py
-# @Author  :   bote7
+# @Author  :   bote798
 # @Date    :   2023/10/23 20:12
 # @IDE     :   PyCharm
 
