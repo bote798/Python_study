@@ -1,7 +1,7 @@
 # -*- coding :UTF-8 -*-
 # @Project :   Projects
 # @File    :   进程池_2.py
-# @Author  :   bote7
+# @Author  :   bote798
 # @Date    :   2023/10/24 20:15
 # @IDE     :   PyCharm
 import os
