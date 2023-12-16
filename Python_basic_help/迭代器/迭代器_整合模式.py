@@ -1,7 +1,7 @@
 # -*- coding :UTF-8 -*-
 # @Project :   Projects
 # @File    :   迭代器_整合模式.py
-# @Author  :   bote7
+# @Author  :   bote798
 # @Date    :   2023/10/15 19:08
 # @IDE     :   PyCharm
 
