@@ -12,3 +12,4 @@ str_1 = "abcde"
 str_2 = "acedb"
 
 print(sorted(str_1)==sorted(str_2))
+

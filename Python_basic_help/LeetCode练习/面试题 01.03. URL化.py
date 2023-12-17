@@ -17,3 +17,4 @@ lenth = 13
 
 new_str_1 = str_1[:lenth]
 print(new_str_1.replace(' ','%20'))
+

@@ -1,7 +1,7 @@
 # -*- coding :UTF-8 -*-
 # @Project :   Projects
 # @File    :   装饰器本身带参数.py
-# @Author  :   bote7
+# @Author  :   bote798
 # @Date    :   2023/10/17 19:10
 # @IDE     :   PyCharm
 def level(le):

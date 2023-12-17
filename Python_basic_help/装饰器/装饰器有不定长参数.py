@@ -1,7 +1,7 @@
 # -*- coding :UTF-8 -*-
 # @Project :   Projects
 # @File    :   装饰器有不定长参数.py
-# @Author  :   bote7
+# @Author  :   bote798
 # @Date    :   2023/10/17 17:55
 # @IDE     :   PyCharm
 
