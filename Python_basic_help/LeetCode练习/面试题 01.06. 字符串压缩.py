@@ -4,6 +4,7 @@
 # @Author  : bote798
 # @Date    : 2023/12/18 9:12 
 # @IDE     : PyCharm
+import itertools
 
 str_1 = "aabcccccaaa"
 
@@ -51,3 +52,25 @@ print(''.join(list_1))
 # new_str = ''.join(list_1)
 # 题目的最后一个要求,压缩后的长度小于原字符串,则输出,否则输出原字符串
 # return new_str if len(new_str) < lenth else S
+
+
+"""
+    使用itertools.groupby(iterable, key=None):
+        itertools.groupby 是 Python 标准库中的一个函数，它允许你根据指定的键对可迭代对象进行分组。
+        它的作用是将相邻的元素分组为一个子序列，其中每个子序列都具有相同的键值。
+"""
+# [*v]: 将v转为列表
+
+s = min(str_1, "".join(k + str(len(list(v))) for k, v in itertools.groupby(str_1)), key=len)
+print(s)
+# 将其拆解,先做一个列表,作用和上面的相同
+z = []
+
+# 字符串: "aabcccccaaa"
+# itertools.groupby(str_1): aa,b,ccccc,aaa (将相同的元素分组)
+# 使用for遍历出数据
+for k, v in itertools.groupby(str_1):
+    # 将其依次加入到列表中
+    z.append(k + str(len(list(v))))
+#  转为字符串输出,并且使用min()判断长度
+print(min(str_1, ''.join(z)))
