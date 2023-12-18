@@ -1,0 +1,385 @@
+INFO 2023-12-14 16:51:36,368 autoreload 11176 27484 Watching for file changes with StatReloader
+INFO 2023-12-14 16:52:32,031 autoreload 22404 21540 Watching for file changes with StatReloader
+INFO 2023-12-14 16:52:34,111 basehttp 22404 22016 "GET / HTTP/1.1" 200 10600
+INFO 2023-12-14 16:53:24,299 autoreload 17672 8672 Watching for file changes with StatReloader
+INFO 2023-12-14 16:53:26,437 basehttp 17672 8700 "GET / HTTP/1.1" 200 10600
+INFO 2023-12-18 20:12:23,313 autoreload 3632 19000 Watching for file changes with StatReloader
+INFO 2023-12-18 20:18:46,104 autoreload 17664 9008 Watching for file changes with StatReloader
+INFO 2023-12-18 20:21:52,751 autoreload 15216 12408 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:21:53,993 log 15216 4208 Not Found: /
+WARNING 2023-12-18 20:21:53,994 basehttp 15216 4208 "GET / HTTP/1.1" 404 2239
+WARNING 2023-12-18 20:21:54,856 log 15216 4208 Not Found: /favicon.ico
+WARNING 2023-12-18 20:21:54,856 basehttp 15216 4208 "GET /favicon.ico HTTP/1.1" 404 2290
+WARNING 2023-12-18 20:22:13,297 log 15216 4208 Not Found: /username/bote798/
+WARNING 2023-12-18 20:22:13,299 basehttp 15216 4208 "GET /username/bote798/ HTTP/1.1" 404 2308
+WARNING 2023-12-18 20:22:17,666 log 15216 4208 Not Found: /username/bote798/1
+WARNING 2023-12-18 20:22:17,666 basehttp 15216 4208 "GET /username/bote798/1 HTTP/1.1" 404 2311
+WARNING 2023-12-18 20:22:21,721 log 15216 4208 Not Found: /username/bote798/count
+WARNING 2023-12-18 20:22:21,722 basehttp 15216 4208 "GET /username/bote798/count HTTP/1.1" 404 2323
+INFO 2023-12-18 20:22:33,517 basehttp 15216 4208 "GET /usernames/bote798/count HTTP/1.1" 301 0
+INFO 2023-12-18 20:22:33,521 basehttp 15216 8936 "GET /usernames/bote798/count/ HTTP/1.1" 200 4
+INFO 2023-12-18 20:34:32,145 autoreload 16448 9636 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:34:39,532 log 16448 24752 Not Found: /
+WARNING 2023-12-18 20:34:39,532 basehttp 16448 24752 "GET / HTTP/1.1" 404 2239
+INFO 2023-12-18 20:34:39,626 autoreload 16448 9636 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-18 20:34:40,200 autoreload 6324 15708 Watching for file changes with StatReloader
+INFO 2023-12-18 20:34:47,073 basehttp 6324 25516 "GET /usernames/bote798/count/ HTTP/1.1" 200 12
+INFO 2023-12-18 20:34:52,694 basehttp 6324 25516 "GET /usernames/bote/count/ HTTP/1.1" 200 73
+INFO 2023-12-18 20:39:02,328 autoreload 10720 10304 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:39:03,290 log 10720 8464 Not Found: /
+WARNING 2023-12-18 20:39:03,290 basehttp 10720 8464 "GET / HTTP/1.1" 404 2239
+INFO 2023-12-18 20:39:12,508 basehttp 10720 8464 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 20:39:22,597 basehttp 10720 8464 "GET /usernames/bote/count/ HTTP/1.1" 200 73
+INFO 2023-12-18 20:55:46,484 autoreload 20872 13556 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:55:48,070 log 20872 10084 Not Found: /
+WARNING 2023-12-18 20:55:48,070 basehttp 20872 10084 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 20:55:56,913 basehttp 20872 10084 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+WARNING 2023-12-18 20:56:00,689 log 20872 10084 Not Found: /usernames/bot/count/
+WARNING 2023-12-18 20:56:00,690 basehttp 20872 10084 "GET /usernames/bot/count/ HTTP/1.1" 404 2326
+INFO 2023-12-18 20:58:52,209 autoreload 14060 22952 Watching for file changes with StatReloader
+INFO 2023-12-18 20:59:00,589 autoreload 21256 9728 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:59:06,836 log 21256 10364 Not Found: /
+WARNING 2023-12-18 20:59:06,836 basehttp 21256 10364 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 20:59:16,482 autoreload 20496 19240 Watching for file changes with StatReloader
+INFO 2023-12-18 20:59:22,964 basehttp 20496 1928 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 20:59:31,436 basehttp 20496 1928 "GET /usernames/bot/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 20:59:37,028 basehttp 20496 1928 "GET /usernames/bo/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 20:59:40,980 basehttp 20496 1928 "GET /usernames/b/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 20:59:50,300 autoreload 428 21744 Watching for file changes with StatReloader
+WARNING 2023-12-18 20:59:54,513 log 428 24292 Not Found: /usernames/b/count/
+WARNING 2023-12-18 20:59:54,514 basehttp 428 24292 "GET /usernames/b/count/ HTTP/1.1" 404 2320
+INFO 2023-12-18 21:04:23,771 autoreload 12860 14060 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:04:24,618 log 12860 8600 Not Found: /
+WARNING 2023-12-18 21:04:24,618 basehttp 12860 8600 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:04:29,942 basehttp 12860 8600 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+WARNING 2023-12-18 21:04:36,028 log 12860 8600 Not Found: /usernames/b/count/
+WARNING 2023-12-18 21:04:36,028 basehttp 12860 8600 "GET /usernames/b/count/ HTTP/1.1" 404 2320
+INFO 2023-12-18 21:05:52,919 autoreload 23832 6020 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:05:54,773 log 23832 2872 Not Found: /
+WARNING 2023-12-18 21:05:54,774 basehttp 23832 2872 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:08:11,199 autoreload 12544 7196 Watching for file changes with StatReloader
+INFO 2023-12-18 21:11:25,767 autoreload 24612 13456 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:11:26,908 log 24612 21312 Not Found: /
+WARNING 2023-12-18 21:11:26,909 basehttp 24612 21312 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:12:19,978 autoreload 24612 13456 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:12:20,477 autoreload 2620 11104 Watching for file changes with StatReloader
+INFO 2023-12-18 21:12:52,603 basehttp 2620 25500 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:13:06,070 basehttp 2620 25500 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:14:46,640 autoreload 24972 11784 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:14:53,089 log 2620 25500 Not Found: /
+WARNING 2023-12-18 21:14:53,090 basehttp 2620 25500 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:15:05,960 basehttp 2620 25500 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:15:30,097 autoreload 4084 22460 Watching for file changes with StatReloader
+INFO 2023-12-18 21:15:49,304 autoreload 24384 3444 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:15:51,158 log 24384 12424 Not Found: /
+WARNING 2023-12-18 21:15:51,159 basehttp 24384 12424 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:16:58,166 basehttp 24384 12424 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:18:41,782 autoreload 24384 3444 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:18:42,306 autoreload 9200 9636 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:18:54,523 log 9200 14888 Not Found: /
+WARNING 2023-12-18 21:18:54,523 basehttp 9200 14888 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:18:55,374 log 9200 14888 Not Found: /favicon.ico
+WARNING 2023-12-18 21:18:55,374 basehttp 9200 14888 "GET /favicon.ico HTTP/1.1" 404 2299
+INFO 2023-12-18 21:19:57,036 autoreload 14204 11232 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:20:01,336 log 14204 24316 Not Found: /
+WARNING 2023-12-18 21:20:01,336 basehttp 14204 24316 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:20:21,926 log 14204 9204 Not Found: /
+WARNING 2023-12-18 21:20:21,926 basehttp 14204 9204 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:20:36,994 basehttp 14204 9204 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:21:36,772 basehttp 14204 9204 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-12-18 21:21:36,835 basehttp 14204 9204 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2023-12-18 21:21:36,872 basehttp 14204 10844 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-12-18 21:21:36,872 basehttp 14204 9204 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-12-18 21:21:36,881 basehttp 14204 9204 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-12-18 21:21:36,882 basehttp 14204 10844 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-12-18 21:21:36,889 basehttp 14204 9204 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-12-18 21:21:36,920 basehttp 14204 10844 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-12-18 21:21:36,920 basehttp 14204 9204 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-12-18 21:21:44,409 basehttp 14204 9204 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4329
+INFO 2023-12-18 21:21:48,307 basehttp 14204 9204 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4329
+INFO 2023-12-18 21:22:20,706 basehttp 14204 9204 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-12-18 21:22:20,715 basehttp 14204 9204 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+ERROR 2023-12-18 21:22:29,003 log 14204 9204 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\client\default.py", line 670, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\client\default.py", line 668, in has_key
+    return client.exists(key) == 1
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\commands\core.py", line 1736, in exists
+    return self.execute_command("EXISTS", *names)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2023-12-18 21:22:29,009 basehttp 14204 9204 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 202134
+INFO 2023-12-18 21:22:50,571 autoreload 7800 12164 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:22:52,003 log 7800 22080 Not Found: /
+WARNING 2023-12-18 21:22:52,003 basehttp 7800 22080 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:22:58,630 basehttp 7800 22080 "GET /admin HTTP/1.1" 301 0
+INFO 2023-12-18 21:23:00,686 basehttp 7800 21820 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-12-18 21:23:00,709 basehttp 7800 21820 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2023-12-18 21:23:00,739 basehttp 7800 9912 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-12-18 21:23:00,739 basehttp 7800 21820 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-12-18 21:23:00,740 basehttp 7800 23824 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-12-18 21:23:00,741 basehttp 7800 25328 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-12-18 21:23:00,741 basehttp 7800 22480 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-12-18 21:23:00,773 basehttp 7800 25328 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-12-18 21:23:00,773 basehttp 7800 22480 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+ERROR 2023-12-18 21:23:10,941 log 7800 22480 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\client\default.py", line 670, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\django_redis\client\default.py", line 668, in has_key
+    return client.exists(key) == 1
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\commands\core.py", line 1736, in exists
+    return self.execute_command("EXISTS", *names)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2023-12-18 21:23:10,945 basehttp 7800 22480 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 201673
+INFO 2023-12-18 21:24:11,160 basehttp 7800 22480 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-12-18 21:24:11,180 basehttp 7800 22480 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:24:11,222 basehttp 7800 22480 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-12-18 21:24:11,266 basehttp 7800 25328 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-12-18 21:24:11,267 basehttp 7800 22480 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-12-18 21:24:13,366 basehttp 7800 22480 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:24:17,302 basehttp 7800 22480 "GET /admin/auth/group/ HTTP/1.1" 200 6924
+INFO 2023-12-18 21:24:17,340 basehttp 7800 22480 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-12-18 21:24:17,342 basehttp 7800 25328 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2023-12-18 21:24:17,343 basehttp 7800 21820 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-12-18 21:24:17,345 basehttp 7800 9912 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-12-18 21:24:17,346 basehttp 7800 9064 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-12-18 21:24:17,352 basehttp 7800 22480 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-12-18 21:24:17,352 basehttp 7800 25328 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-12-18 21:24:17,353 basehttp 7800 21820 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-12-18 21:24:17,353 basehttp 7800 9064 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-12-18 21:24:17,368 basehttp 7800 23824 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-12-18 21:24:17,380 basehttp 7800 23824 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-12-18 21:24:17,382 basehttp 7800 9912 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-12-18 21:24:17,707 basehttp 7800 9912 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-12-18 21:24:19,237 basehttp 7800 9912 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:24:59,736 basehttp 7800 9912 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:25:38,653 autoreload 10012 14720 Watching for file changes with StatReloader
+INFO 2023-12-18 21:25:39,049 basehttp 10012 12728 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:25:41,534 basehttp 10012 12728 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:25:42,596 basehttp 10012 12728 "GET /admin/auth/group/add/ HTTP/1.1" 200 10190
+INFO 2023-12-18 21:25:42,638 basehttp 10012 956 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2023-12-18 21:25:42,639 basehttp 10012 12728 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-12-18 21:25:42,641 basehttp 10012 24964 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-12-18 21:25:42,643 basehttp 10012 19060 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-12-18 21:25:42,643 basehttp 10012 8728 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-12-18 21:25:42,671 basehttp 10012 8728 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-12-18 21:25:42,672 basehttp 10012 19060 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-12-18 21:25:43,004 basehttp 10012 19060 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-12-18 21:25:43,004 basehttp 10012 24964 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-12-18 21:25:43,011 basehttp 10012 8728 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-12-18 21:25:52,912 basehttp 10012 8728 "GET /admin/ HTTP/1.1" 200 5122
+INFO 2023-12-18 21:29:12,134 autoreload 5256 20056 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:29:13,468 log 5256 8108 Not Found: /
+WARNING 2023-12-18 21:29:13,469 basehttp 5256 8108 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:31:56,897 autoreload 23740 3624 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:32:12,245 log 23740 18660 Not Found: /
+WARNING 2023-12-18 21:32:12,246 basehttp 23740 18660 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:32:31,120 log 23740 24928 Not Found: /
+WARNING 2023-12-18 21:32:31,121 basehttp 23740 24928 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:32:33,250 log 23740 18660 Not Found: /
+WARNING 2023-12-18 21:32:33,251 basehttp 23740 18660 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:34:10,785 autoreload 13264 2448 Watching for file changes with StatReloader
+INFO 2023-12-18 21:36:25,924 autoreload 13264 2448 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:36:26,466 autoreload 22640 21984 Watching for file changes with StatReloader
+INFO 2023-12-18 21:36:35,961 autoreload 22640 21984 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:36:36,478 autoreload 15696 2228 Watching for file changes with StatReloader
+INFO 2023-12-18 21:36:57,455 autoreload 15696 2228 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:36:57,967 autoreload 960 22360 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:37:04,060 log 960 21548 Not Found: /
+WARNING 2023-12-18 21:37:04,061 basehttp 960 21548 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:37:20,828 log 960 14764 Not Found: /
+WARNING 2023-12-18 21:37:20,828 basehttp 960 14764 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:37:22,992 log 960 21548 Not Found: /
+WARNING 2023-12-18 21:37:22,993 basehttp 960 21548 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:39:08,024 autoreload 960 22360 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:39:08,596 autoreload 22964 22888 Watching for file changes with StatReloader
+INFO 2023-12-18 21:39:17,068 autoreload 22964 22888 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:39:17,619 autoreload 8780 8536 Watching for file changes with StatReloader
+INFO 2023-12-18 21:40:12,146 autoreload 8712 19432 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:40:12,915 log 8712 456 Not Found: /
+WARNING 2023-12-18 21:40:12,915 basehttp 8712 456 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:41:48,806 autoreload 8712 19432 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:41:49,333 autoreload 10884 2004 Watching for file changes with StatReloader
+INFO 2023-12-18 21:42:04,040 autoreload 10884 2004 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:42:04,566 autoreload 1896 22240 Watching for file changes with StatReloader
+INFO 2023-12-18 21:42:14,225 autoreload 4180 13556 Watching for file changes with StatReloader
+INFO 2023-12-18 21:42:45,556 autoreload 4180 13556 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:42:46,092 autoreload 23344 21332 Watching for file changes with StatReloader
+INFO 2023-12-18 21:44:26,961 autoreload 23344 21332 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:44:27,536 autoreload 8712 6652 Watching for file changes with StatReloader
+INFO 2023-12-18 21:46:04,776 autoreload 8264 11924 Watching for file changes with StatReloader
+INFO 2023-12-18 21:48:04,091 autoreload 8264 11924 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:48:04,616 autoreload 19804 8280 Watching for file changes with StatReloader
+INFO 2023-12-18 21:48:10,993 autoreload 19804 8280 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:48:11,509 autoreload 22340 13172 Watching for file changes with StatReloader
+INFO 2023-12-18 21:48:23,080 autoreload 22340 13172 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:48:23,573 autoreload 16300 12180 Watching for file changes with StatReloader
+INFO 2023-12-18 21:49:16,801 autoreload 2248 21904 Watching for file changes with StatReloader
+INFO 2023-12-18 21:49:28,600 autoreload 8288 12308 Watching for file changes with StatReloader
+INFO 2023-12-18 21:49:59,816 autoreload 8288 12308 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:50:00,348 autoreload 8072 15916 Watching for file changes with StatReloader
+INFO 2023-12-18 21:50:08,037 autoreload 9080 13516 Watching for file changes with StatReloader
+INFO 2023-12-18 21:50:56,147 autoreload 15464 5580 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:51:47,684 log 15464 6728 Not Found: /
+WARNING 2023-12-18 21:51:47,684 basehttp 15464 6728 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:51:49,711 log 15464 24500 Not Found: /
+WARNING 2023-12-18 21:51:49,711 basehttp 15464 24500 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:55:38,964 autoreload 15464 5580 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:55:39,465 autoreload 3192 22904 Watching for file changes with StatReloader
+INFO 2023-12-18 21:57:17,066 autoreload 4016 13932 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:57:17,930 log 4016 16432 Not Found: /
+WARNING 2023-12-18 21:57:17,932 basehttp 4016 16432 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:58:40,284 autoreload 4016 13932 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 21:58:40,857 autoreload 1840 25432 Watching for file changes with StatReloader
+INFO 2023-12-18 21:58:55,687 autoreload 20460 25440 Watching for file changes with StatReloader
+WARNING 2023-12-18 21:58:57,803 log 20460 23704 Not Found: /
+WARNING 2023-12-18 21:58:57,804 basehttp 20460 23704 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:58:58,680 log 20460 23704 Not Found: /favicon.ico
+WARNING 2023-12-18 21:58:58,680 basehttp 20460 23704 "GET /favicon.ico HTTP/1.1" 404 2299
+WARNING 2023-12-18 21:59:15,879 log 20460 1508 Not Found: /
+WARNING 2023-12-18 21:59:15,880 basehttp 20460 1508 "GET / HTTP/1.1" 404 2248
+WARNING 2023-12-18 21:59:16,723 log 20460 1508 Not Found: /favicon.ico
+WARNING 2023-12-18 21:59:16,723 basehttp 20460 1508 "GET /favicon.ico HTTP/1.1" 404 2299
+INFO 2023-12-18 21:59:21,420 basehttp 20460 1508 "GET /admin HTTP/1.1" 301 0
+INFO 2023-12-18 21:59:21,428 basehttp 20460 1408 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-12-18 21:59:21,448 basehttp 20460 1408 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2023-12-18 21:59:21,474 basehttp 20460 23932 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-12-18 21:59:21,474 basehttp 20460 1408 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-12-18 21:59:21,476 basehttp 20460 1408 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-12-18 21:59:21,477 basehttp 20460 23932 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-12-18 21:59:21,479 basehttp 20460 1408 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-12-18 21:59:21,513 basehttp 20460 23932 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-12-18 21:59:21,513 basehttp 20460 1408 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+WARNING 2023-12-18 21:59:30,485 log 20460 1408 Not Found: /
+WARNING 2023-12-18 21:59:30,486 basehttp 20460 1408 "GET / HTTP/1.1" 404 2248
+INFO 2023-12-18 21:59:42,731 basehttp 20460 1408 "GET /usernames/admin/count HTTP/1.1" 301 0
+INFO 2023-12-18 21:59:42,736 basehttp 20460 23932 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 21:59:53,384 basehttp 20460 23932 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-18 22:00:10,644 autoreload 20460 25440 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 22:00:11,152 autoreload 14908 12076 Watching for file changes with StatReloader
+INFO 2023-12-18 22:00:11,170 autoreload 1840 25432 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
+INFO 2023-12-18 22:00:11,688 autoreload 13152 2544 Watching for file changes with StatReloader
+INFO 2023-12-18 22:01:28,256 autoreload 22476 15484 Watching for file changes with StatReloader
