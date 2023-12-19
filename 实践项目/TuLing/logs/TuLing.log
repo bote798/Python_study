@@ -383,3 +383,508 @@ INFO 2023-12-18 22:00:11,152 autoreload 14908 12076 Watching for file changes wi
 INFO 2023-12-18 22:00:11,170 autoreload 1840 25432 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\settings.py changed, reloading.
 INFO 2023-12-18 22:00:11,688 autoreload 13152 2544 Watching for file changes with StatReloader
 INFO 2023-12-18 22:01:28,256 autoreload 22476 15484 Watching for file changes with StatReloader
+INFO 2023-12-19 19:55:25,239 autoreload 17996 2468 Watching for file changes with StatReloader
+INFO 2023-12-19 20:07:53,278 autoreload 20016 14124 Watching for file changes with StatReloader
+INFO 2023-12-19 20:08:09,808 autoreload 20016 14124 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\urls.py changed, reloading.
+INFO 2023-12-19 20:08:10,309 autoreload 14536 7908 Watching for file changes with StatReloader
+WARNING 2023-12-19 20:08:15,400 log 14536 15392 Not Found: /image_codes/c9b3665d-01c4-4e20-8ee2-7bfa79598e22/
+WARNING 2023-12-19 20:08:15,401 basehttp 14536 15392 "GET /image_codes/c9b3665d-01c4-4e20-8ee2-7bfa79598e22/ HTTP/1.1" 404 2752
+INFO 2023-12-19 20:08:19,567 basehttp 14536 8468 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:08:22,928 basehttp 14536 8468 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:08:56,122 autoreload 14536 7908 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:08:56,651 autoreload 12696 6056 Watching for file changes with StatReloader
+WARNING 2023-12-19 20:13:15,360 log 12696 23932 Not Found: /
+WARNING 2023-12-19 20:13:15,360 basehttp 12696 23932 "GET / HTTP/1.1" 404 2587
+WARNING 2023-12-19 20:13:16,272 log 12696 23932 Not Found: /favicon.ico
+WARNING 2023-12-19 20:13:16,272 basehttp 12696 23932 "GET /favicon.ico HTTP/1.1" 404 2638
+WARNING 2023-12-19 20:13:58,750 log 12696 21376 Not Found: /image_codes/50592950-8c28-4923-8b3a-396afd2c34ea/
+WARNING 2023-12-19 20:13:58,750 basehttp 12696 21376 "GET /image_codes/50592950-8c28-4923-8b3a-396afd2c34ea/ HTTP/1.1" 404 2752
+INFO 2023-12-19 20:14:02,683 basehttp 12696 5276 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:22,504 basehttp 12696 5276 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:27,378 basehttp 12696 3096 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:14:27,379 basehttp 12696 5276 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:27,379 basehttp 12696 24792 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:31,839 basehttp 12696 3096 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:14:31,840 basehttp 12696 24792 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:31,840 basehttp 12696 5276 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:32,856 basehttp 12696 3096 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:14:32,857 basehttp 12696 5276 "GET /usernames/bote798/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:32,857 basehttp 12696 24792 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:58,883 basehttp 12696 5276 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:58,979 basehttp 12696 3096 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:14:58,981 basehttp 12696 5276 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:14:58,982 basehttp 12696 24792 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:16:47,753 autoreload 12696 6056 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:16:48,390 autoreload 23920 10748 Watching for file changes with StatReloader
+WARNING 2023-12-19 20:16:55,988 log 23920 25372 Not Found: /image_codes/cb03aa86-ec3e-421d-b02c-fe149986e0ca/
+WARNING 2023-12-19 20:16:55,988 basehttp 23920 25372 "GET /image_codes/cb03aa86-ec3e-421d-b02c-fe149986e0ca/ HTTP/1.1" 404 2752
+INFO 2023-12-19 20:17:02,284 basehttp 23920 23908 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:17:19,268 basehttp 23920 23908 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:17:32,528 basehttp 23920 23908 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+WARNING 2023-12-19 20:17:32,532 log 23920 24696 Not Found: /sms_codes/18231391523/
+WARNING 2023-12-19 20:17:32,532 basehttp 23920 24696 "GET /sms_codes/18231391523/?image_code=123&image_code_id=cb03aa86-ec3e-421d-b02c-fe149986e0ca HTTP/1.1" 404 2741
+INFO 2023-12-19 20:17:33,415 basehttp 23920 15072 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:17:33,416 basehttp 23920 24696 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:17:33,416 basehttp 23920 23908 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:18:56,471 autoreload 11476 18272 Watching for file changes with StatReloader
+WARNING 2023-12-19 20:18:58,675 log 11476 13740 Not Found: /image_codes/3a9a09c7-d8df-4a4d-856a-84f5b012aee7/
+WARNING 2023-12-19 20:18:58,676 basehttp 11476 13740 "GET /image_codes/3a9a09c7-d8df-4a4d-856a-84f5b012aee7/ HTTP/1.1" 404 2752
+INFO 2023-12-19 20:19:03,839 basehttp 11476 15624 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:19:17,548 basehttp 11476 15624 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:19:21,676 basehttp 11476 15624 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:19:21,678 basehttp 11476 7696 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:19:26,889 basehttp 11476 7744 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:19:26,890 basehttp 11476 7696 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:19:26,892 basehttp 11476 15624 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+WARNING 2023-12-19 20:20:57,570 log 11476 21952 Not Found: /carts/simple/
+WARNING 2023-12-19 20:20:57,570 basehttp 11476 21952 "GET /carts/simple/ HTTP/1.1" 404 2644
+WARNING 2023-12-19 20:21:01,901 log 11476 21952 Not Found: /image_codes/7d7ef983-976f-46ec-ac23-5957f0da36e5/
+WARNING 2023-12-19 20:21:01,902 basehttp 11476 21952 "GET /image_codes/7d7ef983-976f-46ec-ac23-5957f0da36e5/ HTTP/1.1" 404 2752
+INFO 2023-12-19 20:21:17,362 basehttp 11476 23160 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:21:29,259 basehttp 11476 23160 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:21:34,306 basehttp 11476 15784 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2023-12-19 20:21:34,309 basehttp 11476 23160 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:21:34,312 basehttp 11476 12472 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:21:34,570 basehttp 11476 21440 "POST /register/ HTTP/1.1" 200 27
+WARNING 2023-12-19 20:21:34,641 log 11476 21440 Not Found: /carts/simple/
+WARNING 2023-12-19 20:21:34,641 basehttp 11476 21440 "GET /carts/simple/ HTTP/1.1" 404 2644
+INFO 2023-12-19 20:23:15,094 autoreload 2096 18040 Watching for file changes with StatReloader
+INFO 2023-12-19 20:23:25,324 basehttp 2096 21492 "GET /usernames/admin/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:29,968 basehttp 2096 21492 "GET /usernames/admin2/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:32,259 basehttp 2096 21492 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:33,633 basehttp 2096 21492 "GET /mobiles/18231391523/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:44,623 basehttp 2096 21492 "GET /mobiles/18200000000/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:45,945 basehttp 2096 21492 "GET /usernames/admin2/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:45,947 basehttp 2096 23344 "GET /mobiles/18200000000/count/ HTTP/1.1" 200 39
+ERROR 2023-12-19 20:23:45,999 log 2096 18776 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py", line 179, in post
+    request.session['user_id'] = user.id
+NameError: name 'user' is not defined
+ERROR 2023-12-19 20:23:46,000 basehttp 2096 18776 "POST /register/ HTTP/1.1" 500 84393
+INFO 2023-12-19 20:23:49,722 basehttp 2096 23344 "GET /mobiles/18200000000/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:23:49,722 basehttp 2096 18776 "GET /usernames/admin2/count/ HTTP/1.1" 200 39
+ERROR 2023-12-19 20:23:49,819 log 2096 21492 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry 'admin2' for key 'tb_users.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py", line 159, in post
+    User.objects.create(username=username, password=password, mobile=mobile)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'admin2' for key 'tb_users.username'")
+ERROR 2023-12-19 20:23:49,823 basehttp 2096 21492 "POST /register/ HTTP/1.1" 500 204481
+INFO 2023-12-19 20:24:15,525 basehttp 2096 19612 "OPTIONS /login/ HTTP/1.1" 200 0
+WARNING 2023-12-19 20:24:15,535 log 2096 21492 Not Found: /login/
+WARNING 2023-12-19 20:24:15,536 basehttp 2096 21492 "POST /login/ HTTP/1.1" 404 2624
+INFO 2023-12-19 20:24:58,171 autoreload 2096 18040 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:24:58,765 autoreload 21440 18272 Watching for file changes with StatReloader
+INFO 2023-12-19 20:28:29,779 autoreload 21440 18272 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:28:30,333 autoreload 9352 14240 Watching for file changes with StatReloader
+INFO 2023-12-19 20:31:40,238 autoreload 9352 14240 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:31:40,790 autoreload 4060 10252 Watching for file changes with StatReloader
+INFO 2023-12-19 20:32:47,323 autoreload 12764 23728 Watching for file changes with StatReloader
+INFO 2023-12-19 20:32:56,077 basehttp 12764 9088 "GET /usernames/admin3/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:32:58,349 basehttp 12764 9088 "GET /mobiles/18200000000/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:33:10,753 basehttp 12764 9088 "GET /mobiles/18231391525/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:33:12,177 basehttp 12764 9088 "GET /usernames/admin3/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:33:12,178 basehttp 12764 432 "GET /mobiles/18231391525/count/ HTTP/1.1" 200 39
+INFO 2023-12-19 20:33:12,336 basehttp 12764 10780 "POST /register/ HTTP/1.1" 200 27
+WARNING 2023-12-19 20:33:12,410 log 12764 10780 Not Found: /carts/simple/
+WARNING 2023-12-19 20:33:12,410 basehttp 12764 10780 "GET /carts/simple/ HTTP/1.1" 404 2644
+INFO 2023-12-19 20:34:14,768 autoreload 12764 23728 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:34:15,291 autoreload 21244 20484 Watching for file changes with StatReloader
+INFO 2023-12-19 20:34:56,796 autoreload 21244 20484 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:34:57,338 autoreload 9632 9716 Watching for file changes with StatReloader
+INFO 2023-12-19 20:35:14,041 autoreload 9632 9716 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 20:35:14,572 autoreload 23668 1908 Watching for file changes with StatReloader
+INFO 2023-12-19 21:06:38,652 autoreload 17356 4508 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:06:44,495 log 17356 22488 Not Found: /image_codes/750f0469-e57d-494b-a440-ab82d0436d30/
+WARNING 2023-12-19 21:06:44,496 basehttp 17356 22488 "GET /image_codes/750f0469-e57d-494b-a440-ab82d0436d30/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:06:46,031 log 17356 5204 Not Found: /image_codes/6e8a77bb-e3d2-4dfc-b809-9e64964a3571/
+WARNING 2023-12-19 21:06:46,031 basehttp 17356 5204 "GET /image_codes/6e8a77bb-e3d2-4dfc-b809-9e64964a3571/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:06:48,597 log 17356 24276 Not Found: /image_codes/a73359b3-bcd0-4dee-bbdf-e0b858376885/
+WARNING 2023-12-19 21:06:48,597 basehttp 17356 24276 "GET /image_codes/a73359b3-bcd0-4dee-bbdf-e0b858376885/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:06:50,107 log 17356 8484 Not Found: /image_codes/16e5801b-440b-41b7-9953-ad8f1ef18177/
+WARNING 2023-12-19 21:06:50,108 basehttp 17356 8484 "GET /image_codes/16e5801b-440b-41b7-9953-ad8f1ef18177/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:09:38,181 autoreload 12344 23676 Watching for file changes with StatReloader
+INFO 2023-12-19 21:10:11,485 autoreload 14068 4344 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:10:19,660 log 14068 5140 Not Found: /image_codes/f7f3ed60-cdc3-4f60-8f9c-de35634e0cb0/
+WARNING 2023-12-19 21:10:19,660 basehttp 14068 5140 "GET /image_codes/f7f3ed60-cdc3-4f60-8f9c-de35634e0cb0/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:20,488 log 14068 17284 Not Found: /image_codes/48f798a8-6bab-43a3-9cba-3e748e19021e/
+WARNING 2023-12-19 21:10:20,489 basehttp 14068 17284 "GET /image_codes/48f798a8-6bab-43a3-9cba-3e748e19021e/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:20,913 log 14068 4304 Not Found: /image_codes/423db31a-4178-4f16-979a-50e37691b048/
+WARNING 2023-12-19 21:10:20,914 basehttp 14068 4304 "GET /image_codes/423db31a-4178-4f16-979a-50e37691b048/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:21,120 log 14068 7860 Not Found: /image_codes/f29c1905-4844-4509-9266-1542d7d8420d/
+WARNING 2023-12-19 21:10:21,120 basehttp 14068 7860 "GET /image_codes/f29c1905-4844-4509-9266-1542d7d8420d/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:21,326 log 14068 3276 Not Found: /image_codes/65b78b36-f580-4f4d-b911-c09067c56f15/
+WARNING 2023-12-19 21:10:21,326 basehttp 14068 3276 "GET /image_codes/65b78b36-f580-4f4d-b911-c09067c56f15/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:21,537 log 14068 5576 Not Found: /image_codes/2b72e3f4-5642-4264-b8aa-96807957ef26/
+WARNING 2023-12-19 21:10:21,538 basehttp 14068 5576 "GET /image_codes/2b72e3f4-5642-4264-b8aa-96807957ef26/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:21,743 log 14068 25280 Not Found: /image_codes/4893b042-3378-4930-8924-3f23f136865a/
+WARNING 2023-12-19 21:10:21,743 basehttp 14068 25280 "GET /image_codes/4893b042-3378-4930-8924-3f23f136865a/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:21,974 log 14068 18548 Not Found: /image_codes/0f15dce2-e2a3-402f-9a8c-efe4d94945b2/
+WARNING 2023-12-19 21:10:21,975 basehttp 14068 18548 "GET /image_codes/0f15dce2-e2a3-402f-9a8c-efe4d94945b2/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:22,198 log 14068 7344 Not Found: /image_codes/b4023c93-4caa-4624-9d51-ac782fcc5912/
+WARNING 2023-12-19 21:10:22,200 basehttp 14068 7344 "GET /image_codes/b4023c93-4caa-4624-9d51-ac782fcc5912/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:26,608 log 14068 9444 Not Found: /image_codes/64802669-b04c-4ef6-8dea-151e26ac7ac6/
+WARNING 2023-12-19 21:10:26,608 basehttp 14068 9444 "GET /image_codes/64802669-b04c-4ef6-8dea-151e26ac7ac6/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:33,559 log 14068 8104 Not Found: /image_codes/b767e5f1-9022-4c9d-89d7-247c9209f96b/
+WARNING 2023-12-19 21:10:33,559 basehttp 14068 8104 "GET /image_codes/b767e5f1-9022-4c9d-89d7-247c9209f96b/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:34,798 log 14068 15752 Not Found: /image_codes/d51eba60-49bb-4410-bcec-0bcb47d1a0a3/
+WARNING 2023-12-19 21:10:34,799 basehttp 14068 15752 "GET /image_codes/d51eba60-49bb-4410-bcec-0bcb47d1a0a3/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:37,211 log 14068 4580 Not Found: /image_codes/ef87ff7e-513d-41e5-9f43-2f6c96443ba9/
+WARNING 2023-12-19 21:10:37,212 basehttp 14068 4580 "GET /image_codes/ef87ff7e-513d-41e5-9f43-2f6c96443ba9/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:37,566 log 14068 17512 Not Found: /image_codes/187f4b0f-6bb9-4f63-8bb3-00b342f9d0fd/
+WARNING 2023-12-19 21:10:37,567 basehttp 14068 17512 "GET /image_codes/187f4b0f-6bb9-4f63-8bb3-00b342f9d0fd/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:10:37,710 log 14068 6136 Not Found: /image_codes/f53405e7-26fa-49d0-bc8f-a865b8fe3a3b/
+WARNING 2023-12-19 21:10:37,711 basehttp 14068 6136 "GET /image_codes/f53405e7-26fa-49d0-bc8f-a865b8fe3a3b/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:11:50,638 autoreload 15660 14328 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:11:54,523 log 15660 18068 Not Found: /image_codes/1eedc399-7f57-4216-bb4c-b5dadd1c5a14/
+WARNING 2023-12-19 21:11:54,523 basehttp 15660 18068 "GET /image_codes/1eedc399-7f57-4216-bb4c-b5dadd1c5a14/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:11:57,528 log 15660 12220 Not Found: /image_codes/a23f044f-b70f-4a73-804e-cda520fc14d5/
+WARNING 2023-12-19 21:11:57,529 basehttp 15660 12220 "GET /image_codes/a23f044f-b70f-4a73-804e-cda520fc14d5/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:11:57,677 log 15660 19780 Not Found: /image_codes/2b259be7-9ad3-465d-bc45-899af8a72a17/
+WARNING 2023-12-19 21:11:57,678 basehttp 15660 19780 "GET /image_codes/2b259be7-9ad3-465d-bc45-899af8a72a17/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:11:57,849 log 15660 25352 Not Found: /image_codes/c97d65ab-e580-4dfd-a167-7b7cf1524586/
+WARNING 2023-12-19 21:11:57,850 basehttp 15660 25352 "GET /image_codes/c97d65ab-e580-4dfd-a167-7b7cf1524586/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:11:57,997 log 15660 1700 Not Found: /image_codes/f7e89671-5f2d-47b4-80ae-242ea96f4747/
+WARNING 2023-12-19 21:11:57,998 basehttp 15660 1700 "GET /image_codes/f7e89671-5f2d-47b4-80ae-242ea96f4747/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:14:09,491 autoreload 2924 25424 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:14:25,428 log 2924 19488 Not Found: /carts/simple/
+WARNING 2023-12-19 21:14:25,428 basehttp 2924 19488 "GET /carts/simple/ HTTP/1.1" 404 2644
+WARNING 2023-12-19 21:14:28,165 log 2924 19488 Not Found: /image_codes/585e3f24-06ab-4845-9555-9e2992382384/
+WARNING 2023-12-19 21:14:28,165 basehttp 2924 19488 "GET /image_codes/585e3f24-06ab-4845-9555-9e2992382384/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:14:29,422 log 2924 18320 Not Found: /image_codes/29e0777e-772a-4293-b2a2-0c7ea1722ccc/
+WARNING 2023-12-19 21:14:29,423 basehttp 2924 18320 "GET /image_codes/29e0777e-772a-4293-b2a2-0c7ea1722ccc/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:14:29,560 log 2924 12456 Not Found: /image_codes/f91b1ea3-6944-4b97-adb3-1b3ff16ad63d/
+WARNING 2023-12-19 21:14:29,560 basehttp 2924 12456 "GET /image_codes/f91b1ea3-6944-4b97-adb3-1b3ff16ad63d/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:14:29,720 log 2924 5240 Not Found: /image_codes/6b16dc71-d434-4e7e-a898-c09836b0973e/
+WARNING 2023-12-19 21:14:29,720 basehttp 2924 5240 "GET /image_codes/6b16dc71-d434-4e7e-a898-c09836b0973e/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:14:29,887 log 2924 18312 Not Found: /image_codes/a95c5235-6694-432c-9d1f-7e0cc5599227/
+WARNING 2023-12-19 21:14:29,888 basehttp 2924 18312 "GET /image_codes/a95c5235-6694-432c-9d1f-7e0cc5599227/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:14:30,063 log 2924 7628 Not Found: /image_codes/0d97c9d1-ac05-4a1d-ada2-4c9febe7233b/
+WARNING 2023-12-19 21:14:30,063 basehttp 2924 7628 "GET /image_codes/0d97c9d1-ac05-4a1d-ada2-4c9febe7233b/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:18:20,129 autoreload 11804 9088 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:18:23,064 log 11804 19136 Not Found: /image_codes/4df1cdb7-c606-4ff8-a6b6-c70f2fe3d25a/
+WARNING 2023-12-19 21:18:23,064 basehttp 11804 19136 "GET /image_codes/4df1cdb7-c606-4ff8-a6b6-c70f2fe3d25a/ HTTP/1.1" 404 2752
+WARNING 2023-12-19 21:18:25,191 log 11804 9056 Not Found: /image_codes/0d1e3edf-8794-47b2-a987-7904d39469ad/
+WARNING 2023-12-19 21:18:25,191 basehttp 11804 9056 "GET /image_codes/0d1e3edf-8794-47b2-a987-7904d39469ad/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:19:50,814 autoreload 18804 5760 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:19:55,760 log 18804 16972 Not Found: /image_codes/e6dbb863-ad42-4bd7-81b9-8fd71547ed2e/
+WARNING 2023-12-19 21:19:55,761 basehttp 18804 16972 "GET /image_codes/e6dbb863-ad42-4bd7-81b9-8fd71547ed2e/ HTTP/1.1" 404 2752
+INFO 2023-12-19 21:23:09,717 autoreload 18804 5760 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\urls.py changed, reloading.
+INFO 2023-12-19 21:23:10,308 autoreload 1908 16640 Watching for file changes with StatReloader
+INFO 2023-12-19 21:23:37,181 autoreload 1908 16640 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\urls.py changed, reloading.
+INFO 2023-12-19 21:23:37,759 autoreload 11096 16276 Watching for file changes with StatReloader
+INFO 2023-12-19 21:23:52,416 autoreload 11096 16276 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\TuLing\urls.py changed, reloading.
+INFO 2023-12-19 21:23:52,993 autoreload 13352 12452 Watching for file changes with StatReloader
+ERROR 2023-12-19 21:23:54,349 log 13352 18632 Internal Server Error: /image_codes/167c2a3f-ed01-463f-8487-176d5c99fbda/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:23:54,350 basehttp 13352 18632 "GET /image_codes/167c2a3f-ed01-463f-8487-176d5c99fbda/ HTTP/1.1" 500 98522
+ERROR 2023-12-19 21:23:55,848 log 13352 23152 Internal Server Error: /image_codes/e9217125-7bd9-4f5d-b625-d726c6aa5208/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:23:55,848 basehttp 13352 23152 "GET /image_codes/e9217125-7bd9-4f5d-b625-d726c6aa5208/ HTTP/1.1" 500 98521
+ERROR 2023-12-19 21:23:56,033 log 13352 9396 Internal Server Error: /image_codes/0e468a0e-74ea-4752-9bea-fee4ae6f14fa/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:23:56,034 basehttp 13352 9396 "GET /image_codes/0e468a0e-74ea-4752-9bea-fee4ae6f14fa/ HTTP/1.1" 500 98523
+ERROR 2023-12-19 21:23:56,248 log 13352 8608 Internal Server Error: /image_codes/04ba6e3e-963d-46f4-9f25-bd5820b1584a/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:23:56,248 basehttp 13352 8608 "GET /image_codes/04ba6e3e-963d-46f4-9f25-bd5820b1584a/ HTTP/1.1" 500 98520
+ERROR 2023-12-19 21:24:34,605 log 13352 16276 Internal Server Error: /image_codes/971cfdd2-8534-43dc-94bc-498b19ae28f1/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:24:34,606 basehttp 13352 16276 "GET /image_codes/971cfdd2-8534-43dc-94bc-498b19ae28f1/ HTTP/1.1" 500 98524
+ERROR 2023-12-19 21:24:35,757 log 13352 7060 Internal Server Error: /image_codes/b34d029f-1992-4040-86ed-d778c781fd50/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:24:35,758 basehttp 13352 7060 "GET /image_codes/b34d029f-1992-4040-86ed-d778c781fd50/ HTTP/1.1" 500 98523
+ERROR 2023-12-19 21:24:36,155 log 13352 24844 Internal Server Error: /image_codes/11a3998b-0c48-4b18-a9bc-b471e533bb00/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:24:36,155 basehttp 13352 24844 "GET /image_codes/11a3998b-0c48-4b18-a9bc-b471e533bb00/ HTTP/1.1" 500 98522
+INFO 2023-12-19 21:24:40,900 autoreload 9248 16444 Watching for file changes with StatReloader
+ERROR 2023-12-19 21:24:45,582 log 9248 19340 Internal Server Error: /image_codes/2f33b05b-9449-48ab-816c-ba73778821ff/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verifications\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:24:45,583 basehttp 9248 19340 "GET /image_codes/2f33b05b-9449-48ab-816c-ba73778821ff/ HTTP/1.1" 500 98519
+INFO 2023-12-19 21:25:15,481 autoreload 7752 15032 Watching for file changes with StatReloader
+INFO 2023-12-19 21:27:43,716 autoreload 7752 15032 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:27:44,327 autoreload 14100 22484 Watching for file changes with StatReloader
+INFO 2023-12-19 21:28:45,905 autoreload 14100 22484 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\users\views.py changed, reloading.
+INFO 2023-12-19 21:28:46,517 autoreload 16092 25884 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:32:29,862 log 16092 4312 Not Found: /carts/simple/
+WARNING 2023-12-19 21:32:29,862 basehttp 16092 4312 "GET /carts/simple/ HTTP/1.1" 404 2821
+WARNING 2023-12-19 21:33:19,797 log 16092 4312 Not Found: /image_codes/
+WARNING 2023-12-19 21:33:19,797 basehttp 16092 4312 "GET /image_codes/ HTTP/1.1" 404 2818
+WARNING 2023-12-19 21:33:19,819 log 16092 4312 Not Found: /favicon.ico
+WARNING 2023-12-19 21:33:19,819 basehttp 16092 4312 "GET /favicon.ico HTTP/1.1" 404 2815
+ERROR 2023-12-19 21:33:26,256 log 16092 4312 Internal Server Error: /image_codes/s/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:33:26,257 basehttp 16092 4312 "GET /image_codes/s/ HTTP/1.1" 500 98152
+INFO 2023-12-19 21:33:58,009 autoreload 2368 11224 Watching for file changes with StatReloader
+ERROR 2023-12-19 21:34:00,843 log 2368 25428 Internal Server Error: /image_codes/
+Traceback (most recent call last):
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\LZH18\Python3_8_7\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py", line 53, in get
+    text, image = captcha.captcha.generate_captcha()
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\libs\captcha\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-12-19 21:34:00,844 basehttp 2368 25428 "GET /image_codes/ HTTP/1.1" 500 97868
+INFO 2023-12-19 21:34:39,677 autoreload 2368 11224 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:34:40,231 autoreload 13564 884 Watching for file changes with StatReloader
+INFO 2023-12-19 21:37:38,766 autoreload 13564 884 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\venv\Lib\site-packages\PIL\ImageMode.py changed, reloading.
+INFO 2023-12-19 21:37:39,307 autoreload 24756 8556 Watching for file changes with StatReloader
+INFO 2023-12-19 21:37:54,434 autoreload 21912 14212 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:38:01,076 log 21912 7580 Not Found: /image_codes/
+WARNING 2023-12-19 21:38:01,076 basehttp 21912 7580 "GET /image_codes/ HTTP/1.1" 404 2818
+WARNING 2023-12-19 21:38:16,320 log 21912 7580 Not Found: /carts/simple/
+WARNING 2023-12-19 21:38:16,320 basehttp 21912 7580 "GET /carts/simple/ HTTP/1.1" 404 2821
+INFO 2023-12-19 21:38:18,751 basehttp 21912 7580 "GET /image_codes/09da8408-65e2-4cb5-b4ca-3caac5086f70/ HTTP/1.1" 200 3369
+INFO 2023-12-19 21:38:23,642 basehttp 21912 7580 "GET /image_codes/f7a52734-beb1-44ed-a1c7-df3e737f51b2/ HTTP/1.1" 200 3228
+INFO 2023-12-19 21:38:23,972 basehttp 21912 7580 "GET /image_codes/17626c6d-4de0-46b7-9340-b0d6c5f24329/ HTTP/1.1" 200 3392
+INFO 2023-12-19 21:38:24,247 basehttp 21912 7580 "GET /image_codes/306cc9d1-eb4c-477a-87dc-e23e3998635b/ HTTP/1.1" 200 3106
+INFO 2023-12-19 21:38:24,417 basehttp 21912 7580 "GET /image_codes/138b3c49-3bcb-4d10-a48d-19fe435a5d2c/ HTTP/1.1" 200 3246
+INFO 2023-12-19 21:38:24,577 basehttp 21912 7580 "GET /image_codes/9c7b0a90-8f25-4ac1-8c96-c6f26a0a32ac/ HTTP/1.1" 200 2963
+INFO 2023-12-19 21:38:24,717 basehttp 21912 7580 "GET /image_codes/3e983c55-ea3b-46b9-b864-d8dc52961f1b/ HTTP/1.1" 200 3155
+INFO 2023-12-19 21:38:24,883 basehttp 21912 7580 "GET /image_codes/ff4645e3-0bf0-4d68-b241-765e29be1710/ HTTP/1.1" 200 3608
+INFO 2023-12-19 21:38:25,046 basehttp 21912 7580 "GET /image_codes/8283800e-b366-48b7-b818-5b9cea3f4f0a/ HTTP/1.1" 200 3358
+INFO 2023-12-19 21:39:06,860 autoreload 21912 14212 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:39:07,390 autoreload 8500 23948 Watching for file changes with StatReloader
+INFO 2023-12-19 21:40:41,828 autoreload 8500 23948 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:40:42,407 autoreload 12432 26500 Watching for file changes with StatReloader
+INFO 2023-12-19 21:41:49,895 autoreload 12432 26500 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:41:50,496 autoreload 24944 7824 Watching for file changes with StatReloader
+INFO 2023-12-19 21:42:52,779 autoreload 24944 7824 D:\LZH18\Work\PythonWeb\VM\TuLing\TuLing\apps\verification\views.py changed, reloading.
+INFO 2023-12-19 21:42:53,338 autoreload 13564 13352 Watching for file changes with StatReloader
+INFO 2023-12-19 21:43:11,522 autoreload 6904 22680 Watching for file changes with StatReloader
+WARNING 2023-12-19 21:43:12,653 log 6904 22780 Not Found: /
+WARNING 2023-12-19 21:43:12,653 basehttp 6904 22780 "GET / HTTP/1.1" 404 2764

@@ -29,3 +29,26 @@ class UsernameConverter:
 # 将转换器UsernameConverter功能赋给使用名username
 # 该行代码写在这里和路由层都可以
 register_converter(UsernameConverter, 'username')
+
+
+class MobileConverter:
+    regex = '1[345789]\d{9}'
+
+    def to_python(self, value):
+        # 因为输入的是字符串,而字符串对比并不方便,所以将其转为整形(int)
+        return int(value)
+
+
+register_converter(MobileConverter, 'mobile')
+
+
+class UUIDConverter:
+    # 因为UUID是由 - 连接的,所以要允许它的存在
+    regex = '[\w-]+'
+
+    def to_python(self, value):
+        # 将其转为字符串,方便存入数据库
+        return str(value)
+
+
+register_converter(UUIDConverter, 'uuid')
