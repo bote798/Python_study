@@ -28,7 +28,7 @@
 
 ##### **前端:**
 
-将TuLing和TuLing前端两个包拉到本地，然后在TuLing前端下的front_end_pc中打开cmd，输入以下command
+将TuLing和TuLing前端两个包拉到本地，然后在TuLing前端中打开cmd，输入以下command
 
 ```cmd
 python -m http.server 端口号(一般使用8080,不要和django的端口号冲突)
